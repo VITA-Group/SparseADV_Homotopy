@@ -1,6 +1,6 @@
 # Sparse and Imperceptible Adversarial Attack via a Homotopy Algorithm
 
-[ICML 2021] [Sparse and Imperceptible Adversarial Attack via a Homotopy Algorithm.](https://arxiv.org/abs/2106.06027)
+[ICML 2021 Long Talk] [Sparse and Imperceptible Adversarial Attack via a Homotopy Algorithm.](https://arxiv.org/abs/2106.06027)
 
 Mingkang Zhu, Tianlong Chen, Zhangyang Wang
 
