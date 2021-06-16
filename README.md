@@ -1,5 +1,7 @@
 # Sparse and Imperceptible Adversarial Attack via a Homotopy Algorithm
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 [ICML 2021 Long Talk] [Sparse and Imperceptible Adversarial Attack via a Homotopy Algorithm.](https://arxiv.org/abs/2106.06027)
 
 Mingkang Zhu, Tianlong Chen, Zhangyang Wang
